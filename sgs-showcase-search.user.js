@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         三国杀·设置展示搜索
-// @namespace    https://
+// @namespace    https://github.com/user7050030/sgs-showcase-search.user
 // @version      1.0.0
 // @description  在「设置展示」窗口里加一个搜索框，按武将名、皮肤名或拼音过滤列表。
 // @author       主页展示皮肤搜索插件
@@ -12,7 +12,9 @@
 // @match        *://h5.7k7k.com/web/H5GAMES.html?gid=960982bec2f555de44ea43ca8a7ef418/*
 // @match        *://qqgame.qq.com/webappframe/?appid=10951
 // @match        *://s118.app1107877410.qqopenapp.com/pc/qqLobby_index.php*
-// @match        *://sgsszn.wan.360.cn/game_login.php*
+// @match        *://kuaiwan.com/game/main/9496000/*
+// @match        *://kuaiwan.com/start/game.html*
+// @match        *://sgsszn.wan.360.cn/*
 // @exclude      *://*.sanguosha.com/220/*
 // @grant        none
 // ==/UserScript==
